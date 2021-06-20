@@ -33,20 +33,20 @@
       },      
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
-         "value": "866838349"
+         "value": "1739887825"
       },
       "OWNER_USERNAME": {
          "description": "Your username",
-         "value": "KshitijGagan"
+         "value": "D0FFY"
       },
       "DEV_USERS": {
          "description": "ID of users who are Dev (can use /py etc.)",
          "required": false,
-         "value": "866838349"
+         "value": "1739887825"
       },
       "GBAN_LOGS": {
          "description": "Gban log channel, include the hyphen too: ex: -123456",
-         "value": "-123"
+         "value": "-1001464284489"
       },
       "CASH_API_KEY": {
          "description": "Required for currency converter",
@@ -76,27 +76,27 @@
       "SUDO_USERS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
-         "value": "866838349"
+         "value": "1739887825"
       },
       "SUPPORT_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as support users(gban perms only).",
          "required": false,
-         "value": "866838349"
+         "value": "1739887825"
       },
       "TIGER_USERS": {
          "description": "A space separated list of user IDs who you wanna assign as tiger users.",
          "required": false,
-         "value": "866838349"
+         "value": "1739887825"
       },
       "TOKEN": {
          "description": "Your bot token.",
          "required": true,
-         "value": ""
+         "value": "1710520992:AAGwuADxiV6otWAx92YLVa3irk6tNU7btdI"
       },
       "URL": {
          "description": "The Heroku App URL :-  https://<appname>.herokuapp.com/",
          "required": false,
-         "value": ""
+         "value": "https://hoahongbot.herokuapp.com/"
       },
       "WEBHOOK": {
          "description": "Setting this to ANYTHING will enable webhooks.",
@@ -106,7 +106,7 @@
       "WHITELIST_USERS": {
          "description": "A space separated list of user IDs who you want to assign as whitelisted - can't be banned with your bot.",
          "required": false,
-         "value": "866838349"
+         "value": "1739887825"
       }
    },
    "keywords": [
